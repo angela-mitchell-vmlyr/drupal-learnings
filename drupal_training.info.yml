@@ -1,6 +1,6 @@
 name: Drupal Training
 type: theme
-base theme: olivero
+base theme: stark
 description: A theme for training on building a theme.
 package: Custom
 core: 8.x
